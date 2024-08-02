@@ -21,4 +21,4 @@ Sentiment Analysis is the process of analyzing digital text to determine if the 
 [twitter-roberta-base-sentiment-latest](https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) — a RoBERTa-base model trained on ~124M tweets is used in this demo to compare the tone of the GT and the model's response.
 
 # Run Demo
-To run the demo, run all cells in this [notebook](https://colab.research.google.com/drive/1aw1ie2KO5JUjrFNqk6YoRWTsEaQxeNbS?usp=sharing)
+[Huggingface Spaces Demo](https://huggingface.co/spaces/ethanlim04/semantic-relationships-gt-model)
